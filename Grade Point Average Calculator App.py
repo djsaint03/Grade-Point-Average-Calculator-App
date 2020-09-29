@@ -32,12 +32,5 @@ print(f"To earn {desired_avg} ,you need to get {0}")
 
 
 
-'''
-example = 4
-num= 0
-list= [2,4,567,89]
-for num in range(example):
-    print(list[num])
-    num+=1
-'''
+
 
